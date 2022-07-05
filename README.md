@@ -73,7 +73,7 @@ Açıkcası bu projenin bana kazandırdığı en büyük özellik; CSS position 
   
   <div>
     <h2>Header Part</h2>
-    <a href="https://ibb.co/SrXRQPm"><img src="https://i.ibb.co/TLBmKk0/1.png" alt="1" border="0"></a>
+    <a href="https://im.ge/i/u5wwer"><img src="https://i.im.ge/2022/07/06/u5wwer.png" alt="u5wwer.png" border="0"></a>
   </div>
 
   </br>
